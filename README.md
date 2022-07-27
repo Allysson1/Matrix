@@ -6,4 +6,4 @@ Just a Simple Code that reapeats the Famous Matrix
 
 ## If you want to see the project running, you will need:
 
-have a browser that supports HTML5 and CSS3.
+have a browser that supports HTML5 and JS.
